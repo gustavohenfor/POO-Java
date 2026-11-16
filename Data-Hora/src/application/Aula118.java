@@ -21,7 +21,7 @@ public class Aula118 {
 		System.out.println(d01);
 		System.out.println(d02);
 		System.out.println(d03);
-		System.out.println(d04);
+		System.out.println(d04.format(fmt1));
 
 	}
 
